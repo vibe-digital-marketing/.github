@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="12" viewBox="0 0 960 12" role="img" aria-label="Gilbert spectrum stripe">
+  <rect x="0"   y="0" width="160" height="12" fill="#fc4235"/>
+  <rect x="160" y="0" width="160" height="12" fill="#ff6b00"/>
+  <rect x="320" y="0" width="160" height="12" fill="#ffc843"/>
+  <rect x="480" y="0" width="160" height="12" fill="#05ce7c"/>
+  <rect x="640" y="0" width="160" height="12" fill="#00b3e3"/>
+  <rect x="800" y="0" width="160" height="12" fill="#da3ab3"/>
+</svg>
